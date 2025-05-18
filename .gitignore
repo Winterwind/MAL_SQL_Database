@@ -11,3 +11,6 @@ MAL_db/watching_status.csv
 MAL_db/TEST.sql
 MAL_db/VIEW_QUERIES.sql
 MAL_db/SQL_old.sql
+
+# database
+MAL_db/DATABASE.db
